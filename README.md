@@ -14,9 +14,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/igorvargass/)](https://github.com/igorvargass/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/igorvargass/)](https://github.com/igorvargass/)
 
-- Buscando sempre evoluir.
-
-> Já dizia o filósofo Heráclito, "Nada é permanente, exceto a mudança".
+Já dizia o filósofo Heráclito, "Nada é permanente, exceto a mudança".
 
 **Onde me encontrar / Where to find me:**
 
