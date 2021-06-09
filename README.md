@@ -22,3 +22,5 @@ Já dizia o filósofo Heráclito, "Nada é permanente, exceto a mudança".
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:igorvargass@hotmail.com)](mailto:igorvargass@hotmail.com)
 
 ---
+
+  ![Snake animation](https://github.com/igorvargass/igorvargass/blob/output/github-contribution-grid-snake.svg)
