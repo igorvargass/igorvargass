@@ -1,5 +1,7 @@
 # Hi guys!
 
+Enérgico | Focado | Adaptativo / Energy | Focused | Adaptive
+ 
 ### Estudante de Ads, fascinado em tecnologia e Técnico em Eletrônica. Prazer, Igor! / Ads student, fascinated in technology and Electronics Technician. Pleasure, Igor! 👋🏼
 
 **Conhecimentos / Knowledges:**
